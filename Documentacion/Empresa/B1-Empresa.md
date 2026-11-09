@@ -1,4 +1,4 @@
-Como es la empresa
+# COMO ES LA EMPRESA
 
 Nombre de la empresa: Aitex.
 
@@ -27,8 +27,3 @@ Relación con los proveedores: AITEX necesita proveedores que le suministran equ
 Relación con los clientes: AITEX tiene una relación directa con empresas que les piden ensayos, certificaciones, proyectos de investigación o formación especializada. 
 
 Relación con otras sedes: AITEX tiene su sede en Alcoy pero también colabora con centros de investigación y otras organizaciones de distintos países.
-
-WEBGRAFÍA
-
-https://www.aitex.es/acerca-de/
-https://www.aitex.es/?lang=en
