@@ -61,3 +61,6 @@ Técnico RRHH, administración de personal
 Datos de trabajadores, contratos, nóminas, horarios, vacaciones, formacion y prevencion de riesgos laborales
 Direccion, Administracion, Recepcion, Produccion, Almacen, Informática y Vigilancia
 
+https://www.aitex.es
+https://www.aitex.es/laboratorios
+https://www.aitex.es/proyectos
