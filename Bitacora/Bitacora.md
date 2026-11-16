@@ -38,6 +38,10 @@
 
 ## BLOQUE 5
 
+- **Participantes:** Blai Ripoll, Ian Simon Piñeiro
+
+- **Realizado:** Se ha redactado la definición del proyecto, como su nombre, finalidad, problemas o necesidades, usuarios principales, alcance general, y principales elementos que formaran el sistema.
+
 ---
 
 ---
