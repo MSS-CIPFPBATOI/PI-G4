@@ -14,7 +14,7 @@
 
 - **Participantes:** Ian Simón Piñeiro
 
-- **Realizado:** 
+- **Realizado:** He redactado requisitos funcionales y los requisitos no funcionales con las respectivas necesidades que cubre y sus prioridades.
 
 ---
 
