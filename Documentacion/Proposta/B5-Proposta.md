@@ -1,4 +1,4 @@
-# AITEX SmartSystem
+# PROPUESTA
 
 ## 1. Descripción del proyecto
 
