@@ -1,6 +1,10 @@
 # BITACORA DE GRUPO
 
+## BLOQUE 1# BITACORA DE GRUPO
+
 ## BLOQUE 1
+- **Participantes:** Ian Simón Piñeiro, Marco Del Sol, Blai ripoll
+- **Realizado:** Buscar Actividad principal, sector de actividad, productos o servicios que ofrece, tamaño de empresa, numero de sedes, numero aproximado de trabajadores, tipo de clientes, relaciones con proveedores, clientes y otra sedes.
 
 ## BLOQUE 2
 
